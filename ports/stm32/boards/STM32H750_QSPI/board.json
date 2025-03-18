@@ -1,0 +1,15 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+        "stm32H750.jpg"
+    ],
+    "mcu": "stm32H7",
+    "product": "H750-qspi-flash",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "ST Microelectronics"
+}
